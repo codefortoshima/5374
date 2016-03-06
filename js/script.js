@@ -22,12 +22,12 @@ var AreaModel = function() {
     休止期間（主に年末年始）かどうかを判定します。
   */
   this.isBlankDay = function(currentDate) {
-    var period = [this.center.startDate, this.center.endDate];
-
-    if (period[0].getTime() <= currentDate.getTime() &&
-      currentDate.getTime() <= period[1].getTime()) {
-      return true;
-    }
+    // var period = [this.center.startDate, this.center.endDate];
+    //
+    // if (period[0].getTime() <= currentDate.getTime() &&
+    //   currentDate.getTime() <= period[1].getTime()) {
+    //   return true;
+    // }
     return false;
   };
   /**
