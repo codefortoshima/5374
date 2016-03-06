@@ -1,357 +1,103 @@
 type,name,notice,furigana
-Ordinary trash,aluminum foil,,A
-Small metal articles,Irons,,I
-Small metal articles,Ironing board(within 30cm),"The case of over 30cm in the longest side, Oversized waste",I
-Oversized waste,Ironing board(over 30cm),,I
-"Empty cans, PET bottles","Empty cans(Cans for drinking, sweets, dried milk,etc. and spray cans)",,E
-Empty bottles,"Empty bottles(bottles for drinking, spices)",,E
-Mixed paper,Photo Albums(paper),"Made from paper:Mixed paper(The album with metal can be collected Mixed paper. But if the metal can be removed, the metal is collectedSmall metal articles)",P
-Ordinary trash,Photo Albums(plastic),"The material is made from plastic,Ordinary trash",P
-Ordinary trash,Cooking Oil(Used),"Either absorb in cloth or use a solidifying agent before disposing.",C
-Oversized waste,Stones(within 30cm),"Apply for collection at Oversized waste Center(Free).Under 5 pieces per once and size within 30cm in diameter.In the case of over 30cm, Please consult with a shop or store of purchase.",S
-Empty bottles,issho-bin,"If possible, dispose with local group recyclable resource collections or return them to a shop or store of purchase.",I
-Ordinary trash,Flat glasses(within 50cm),"The case of over 50cm in the longest side, Oversized waste",F
-Oversized waste,Flat glasses(over 50cm),"The case of within 50cm in the longest side, Ordinary trash",F
-Oversized waste,Itto-kan,"cans (18-liter square cans),not collected for business activities",I
-Ordinary trash,Clothes,"If possible, Dispose with local group recyclable resource collections.",C
-Ordinary trash,"Plant pots(pottery,biscuit firing)(within 50cm)","Dispose of breakable as ordinary trash after wrapping them with cardboards and writing 'BREAKABLES:DANGER' on them. The case of over 50cm in the longest side, Oversized waste.",P
-Oversized waste,"Plant pots(pottery,biscuit firing)(over 50cm)","The case of within 50cm in the longest side, Ordinary trash.",P
-Ordinary trash,Plant pots(Plastic)(within 50cm),"The case of over 50cm in the longest side, Oversized waste",P
-Oversized waste,Plant pots(Plastic)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",P
-Oversized waste,Washlets(bidet),"When a business operator change them, they are not collected by the City.Please ask the business operator to pick them up.",W
-Oversized waste,Wood carpet, Please cut witin 2m in the longest side.,W
-Ordinary trash,Wood deck panels(within 50cm),"Please contact a Waste Collection Office before, if you dispose as ordinary trash.",W
-Oversized waste,Wook deck panels(over 50cm),"The case of within 50cm, Ordinary trash.",W
-Mixed paper,The box of energy drink,,E
-Ordinary trash,MD(Disk),,M
-Plastic films of containers,Plastic bags for sweets etc.,,P
-Small metal articles,Ladle,,L
-Small metal articles,Grater,,G
-Ordinary trash,"Fallen leaves,clipped branch,cutted grass, board(within 50cm)","Cut into pieces with measurements of less than 50cm in length and 10cm in thickness, bundle with string, and dispose of abount three bundles per collection. The case of over 50cm in the longest length, Oversized waste after dried.",F
-Oversized waste,"Fallen leaves,clipped branch,cutted grass, board(over 50cm)","The case of within 50cm in the longest length, Ordinary trash.",F
-Ordinary trash,Toys(Plastic)(within 50cm),"The case of over 50cm in the longest length, Oversized waste",T
-Oversized waste,Toys(Plastic)(over 50cm),"The case of within 50cm in the longest length, Ordinary trash.",T
-Small metal articles,"Toys(Metal, machine)(within 30cm)","The case of over 30cm in the longest length, Oversized waste.",T
-Oversized waste,"Toys, machine)(over 30cm)","The case of within 30cm in the longest length, Small metal articles",T
-Ordinary trash,thermometer,"Wrapping them with cardbords and writing ’ BREAKABLES DANGER’ on them.",T
-Ordinary trash,curtains,,C
-Ordinary trash,Carpets(within 50cm),"The case of over 50cm in the longest side, Oversized waste.",C
-Oversized waste,Carpets(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",C
-Small metal articles,electrical torch,"Remove batteries.(batteries to Recyclable resources collection.)",E
-Ordinary trash,"Body warmer(disposable)","Not disposable,Small metal articles",D
-Ordinary trash,Mirror,"Wrapping them with cardbords and writing ’ BREAKABLES DANGER’ on them.",M
-Small metal articles,Squared hangers(Metaric),,S
-Small metal articles,Umbrellas,,U
-Small metal articles,Humidifiers(within 30cm),"The case of over 30cm in the longest side, Oversized waste",C
-Oversized waste,Humidifiers(over 30cm),"The case of within 30cm in the longest side, Small metal articles.",C
-"Empty cans, PET bottles",Cans for sweets etc.,,C
-Mixed paper,Boxes for sweets etc.,,B
-"Empty cans, PET bottles","Gas cassette cartridges,Please empty the gas.",,G
-Ordinary trash,Cassette Tape,,C
-Small metal articles,"Cutter・Razor Blade","Dispose of breakable as ordinary trash after wrapping them with cardboards and writing 「カッターキケン」BREAKABLES:DANGER’ on them.",C
-Ordinary trash,wig(traininng wig),"When you dispose it as Ordinary trash,please inform Waste Collection Office that the trash is from home beforehand",w
-Ordinary trash,wig(fashion goods),,w	
-Plastic films of containers,Container of cup noodles(Plastic),"Lightly wash",C
-Mixed paper,Container of cup noodles(Paper),"Those with tough stains ,Ordinary trash",C
-Small metal articles,Hammer,,H
-Ordinary trash,Bag(cloth・leather・vinyl)(within 50cm),"The case of over 50cm in the longest side, Oversized waste",B
-Oversized waste,Bag(cloth・leather・vinyl)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash",B
-Ordinary trash,Paper diaper,"Please dispose of human waste in the toilet , and put it into poly bag",P
-Ordinary trash,Wastepaper(such as tissue paper),,W
-Mixed paper,Paper package container(paper mark),,P
-Mixed paper,Paper(pamphlets, wrapping paper, envelopes),,P
-Ordinary trash,Paper(Dirty paper and paper with strong smell),,P
-Ordinary trash,Glassware(within 50cm),"Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「ガラスキケン」on them. The case of over 50cm in the longest side, Oversized waste.",G
-Oversized waste,Glassware(over 50cm),"Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「ガラスキケン」on them. The case of within 50cm in the longest side, Ordinary trash.",G
-Oversized waste,Curtain rail,,C
-Ordinary trash,Leather,if possible,use local recyclable resource collection groups.",L
-Used batteries,Batteries(layered- and cylinder-type dry cell  batteries, and coin-type lithium cell (CR and BR type)),"Put them in transparent plastic bags and place them.If you have specific rules, such as for the residence association of your condominium, priority should be given to these rules",B
-"Empty cans, PET bottles",Canned goods,"Please empty them",C
-Plastic films of containers,Bubble cushioning material(Bubble wrap),,B
-Small metal articles,Guitar Stand(within 30cm),"The case of over 30cm in the longest side, Oversized waste",G
-Oversized waste,Guitar Stand(over 30cm),"The case of within 30cm in the longest side,Small metal articles",G
-Oversized waste,Mirror stand,,M
-Oversized waste,Safe,"If It's Fire Resistant Safe,ask the shop which you purchased it.",S
-Small metal articles,Air cleaner(within 30cm),"The case of over 30cm in the longest side, Oversized waste",A
-Oversized waste,Air cleaner(over 30cm),"The case of within 30cm in the longest side,Small metal articles",A
-Small metal articles,Nail(include Screw),"Put them into a transparent bag.",N
-Small metal articles,Trash can(Material),,T
-Empty bottles,Medicine bottle(medicine for internal use),,M
-Plastic films of containers,Drug container(Plastic),,D
-Plastic films of containers,Packaging of medicine(Press through package),"If it has aluminum,please leave it as it is.",P
-Small metal articles,Cooking Heater（within 30cm),"The case of over 30cm in the longest side, Oversized waste.",C
-Oversized waste,Cooking Heater（over 30cm),"The case of within 30cm in the longest side, Small metal articles",C
-Ordinary trash,Shoes,,S
-Small metal articles,Fumigation（like Varson・used),"If you can remove  wrapping paper ,you put metal  Small metal articles and you put  wrapping paper Ordinary trash.",F
-Ordinary trash,Fluorescent Lights,"If you can't bring them  to Waste Collection Office,you put them to Ordinary trash.(Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「キケン」on them.)",F
-Small metal articles,Cage（animal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",C
-Oversized waste,Cage（animal)(over 30cm),"The case of within 30cm in the longest length, Small metal articles",C
-Small metal articles,Cable,"Put by bundling",C
-Small metal articles,Gaming machine and peripheral device(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",G
-Oversized waste,Gaming machine and peripheral device(over 30cm),"The case of within 30cm in the longest length, Small metal articles",G
-Ordinary trash,Cosmetic container（bottle),"Wrapping them with cardboards and writing ’BOTTLE:DANGER’「びんキケン」on them.",C
-Small metal articles,Sphygmomanometer,,S
-Small metal articles,Health Equipment(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",H
-Oversized waste,Health Equipment(over 30cm),"The case of within 30cm in the longest length, Small metal articles.",H
-Ordinary trash,Glass,"Wrapping them with cardboards and writing ’Glass:DANGER’「コップキケン」on them.",G
-Small metal articles,Cable,"Put by bundling",C
-Small metal articles,Coffee maker(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",C
-Oversized waste,Coffee maker(over 30cm),"The case of within 30cm in the longest length, Small metal articles",C
-Oversized waste,Futon for Kotatu,"You fold it and bundle with string.",F
-Ordinary trash,Trash can(Plastic)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",T
-Oversized waste,Trash can(Plastic)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",T
-Small metal articles,Trash can(Metal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",T
-Oversized waste,Trash can(Metal)(over 30cm),"The case of within 30cm in the longest side, Small metal articles.",T
-Oversized waste,Golf Bag,"You can set golf clubs into a golf bag.",G
-Oversized waste,Golf Club,"You can set golf clubs into a golf bag.",G
-Oversized waste,Concrete Block,"Apply for collection at Oversized waste Center(Free).Under 5 pieces per once and size within 30cm in diameter.In the case of over 30cm, Please consult with a shop or store of purchase.",C
-Ordinary trash,Chemical Light,,C
-Oversized waste,Legless Chair,"Up to 5 chairs,you can put them together.Bundle with string.(In Rotary legless chair, Fee will be charged to each.)",L
-Small metal articles,Fish Roaster,,F
-Ordinary trash,Cushion(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",C
-Oversized waste,Cushion(over 50cm),"The case of within 50cm in the longest length, Ordinary trash",C
-Ordinary trash,Plate,"Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「皿キケン」on them. ",P
-Ordinary trash,CD（Disk),,C
-Oversized waste,Flagstone(within 30cm),"Apply for collection at Oversized waste Center(Free).Under 5 pieces per once and size within 30cm in diameter.In the case of over 30cm, Please consult with a shop or store of purchase.",F
-Small metal articles,Magnet,,M
-Oversized waste,Bicycle,,B
-Small metal articles,Jack(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",J
-Oversized waste,Jack(over 30cm),"The case of within 30cm in the longest side, Small metal articles.",J
-Oversized waste,Dishwasher(Built-In),"When a business operator change them, they are not collected by the City.Please ask the business operator to pick them up.",D
-Mixed paper,Photograph,,P
-Plastic films of containers,Shampoo Bottle(Plastic),"Empty the container ,and rinse them lightly.",S
-Mixed paper,Shredded paper,,S
-Ordinary trash,Carpet(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",C
-Oversized waste,Carpet(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",C
-Ordinary trash,Water purifier cartridge(not include metal),,W
-Small metal articles,Water purifier cartridge(include metal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",W
-Oversized waste,Water purifier cartridge(include metal)(over 30cm),"The case of within 30cm in the longest length, Small metal articles",W
-Small metal articles,Lighting equipment(within 30cm),"The case of over 30cm in the longest length, Oversized waste.(Fluorescent tube or Light bulb is Ordinary trash)",L
-Oversized waste,Lighting equipment(over 30cm),"The case of within 30cm in the longest length, Small metal articles(Fluorescent tube or Light bulb is Ordinary trash)",L
-"Empty cans, PET bottles",Can of the edible oil,"Use it up and  rinse it lightly",C
-Empty bottles,Bottle of the edible oil,"Use it up and  rinse it lightly",B
-Ordinary trash,Fish tank(not include metal)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",F
-Oversized waste,Fish tank(not include metal)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",F
-Small metal articles,Fish tank(include metal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",F
-Oversized waste,Fish tank(include metal)(over 30cm),"The case of within 30cm in the longest length, Small metal articles",F
-Small metal articles,Rice Cookers(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",R
-Oversized waste,Rice Cookers(over 30cm),"The case of within 30cm in the longest length, Small metal articles",R
-Small metal articles,Suitcase(A grip is made from metal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Suitcase(A grip is made from metal)(over 30cm),"The case of within 30cm in the longest length, Small metal articles",S
-Ordinary trash,Suitcase(not include metal)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,Suitcase(not include metal)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",S
-Ordinary trash,"Ski boots,Skating boots(not include metal)(within 50cm)","The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,"Ski boots,Skating boots(not include metal)(over 50cm)","The case of within 50cm in the longest side, Ordinary trash.",S
-Small metal articles,"Ski boots,Skating boots(include metal)(within 30cm)","The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,"Ski boots,Skating boots(include metal)(over 30cm)","The case of within 30cm in the longest length, Small metal articles.",S
-Small metal articles,Steam Iron(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Steam Iron(over 30cm),"The case of within 30cm in the longest length, Small metal articles.",S
-Small metal articles,Stereo(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Stereo(over 30cm),"The case of within 30cm in the longest length, Small metal articles",S
-Small metal articles,Stainless steel thermos(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Stainless steel thermos(over 30cm),"The case of within 30cm in the longest side, Ordinary trash.",S
-Ordinary trash,Straw,,S
-Ordinary trash,Snowboard Boots(not include metal)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,Snowboard Boots(not include metal)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",S
-Small metal articles,Snowboard Boots(include metal)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Snowboard Boots(include metal)(over 30cm),"The case of within 30cm in the longest length, Small metal articles",S
-Small metal articles,Speaker(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",S
-Oversized waste,Speaker(over 30cm),"The case of within 30cm in the longest length, Small metal articles",S
-Ordinary trash,Spoon(Plastic),,S
-Small metal articles,Spoon（Metal）,,S
-"Empty cans, PET bottles",Spray can,"Use it up and  rinse it lightly",S
-Plastic films of containers,Cap of spray cans,,C
-Ordinary trash,Sanitary Napkin,,S
-Plastic films of containers,Wrapping of Sanitary Napkin,,W
-Ordinary trash,Container of detergent(paper),,C
-Plastic films of containers,Container of detergent(Plastic),"Empty the container ,and rinse them lightly.",C
-Small metal articles,Asthma inhaler(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",A
-Oversized waste,Asthma inhaler(over 30cm),"The case of within 30cm in the longest length, Small metal articles.",A
-Small metal articles,Fan(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",F
-Oversized waste,Fan(over 30cm),"The case of within 30cm in the longest length, Small metal articles.",F
-Ordinary trash,Bathwater hose for washer,"The case of Plastic,less than 50 cm in length,Ordinary trash.",B
-Ordinary trash,washbowl,,W
-Small metal articles,Vacuum cleaner(within 30cm),"The case of over 30cm in the longest length, Oversized waste.Including hose and measured in the smallest collectively state",V
-Oversized waste,Vacuum cleaner(over 30cm),"The case of within 30cm in the longest length, Small metal articles。Including hose and measured in the smallest collectively state",V
-Oversized waste,Sofa,,S
-Small metal articles,Weight scale(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",W
-Oversized waste,Weight scale(over 30cm),"The case of within 30cm in the longest length, Small metal articles",W
-Ordinary trash,"Equipment for diving,Diving Suits(not include metal)(within 50cm)","The case of over 50cm in the longest length, Oversized waste.",E
-Oversized waste,"Equipment for diving,Diving Suits(not include metal)(over 50cm)","The case of within 50cm in the longest side, Ordinary trash.",E
-Small metal articles,"Equipment for diving,Diving Suits(include metal)(within 30cm)","The case of over 30cm in the longest length, Oversized waste.",E
-Oversized waste,"Equipment for diving,Diving Suits(include metal)(over 30cm)","The case of within 30cm in the longest length, Small metal articles",E
-Ordinary trash,Cotton blanket,,C
-Ordinary trash,Tupper,,T
-Mixed paper,Egg pack(paper),,E
-Plastic films of containers,Egg pack(Plastic),,E
-Ordinary trash,Child seat(not include metal),"The case of within 50cm in the longest side.The case of over 50cm in the longest length, Oversized waste.",C
-Small metal articles,Child seat,,C
-Oversized waste,Child seat(include metal),"The case of within 30cm in the longest length, Small metal articles.The case of over 50cm in the longest length, Oversized waste.",C
-Ordinary trash,Rice Bowl,"Wrapping them with cardboards and writing ’DANGER’「キケン」on them. ",R
-Plastic films of containers,Tube(Mayonnaise etc.),"Use it up",T
-Mixed paper,Flyer(Other than flyer of newspaper ),,F
-Oversized waste,Weight stone(within 30cm),"Under 5 pieces per once and size within 30cm in diameter.In the case of over 30cm, Please consult with a shop or store of purchase.",W
-Ordinary trash,Soil,"In the case of a large amount,bring directly to Ukishima.Please contact a Waste Collection Office.",S
-Ordinary trash,"Tension pole,tension pole shelf"The case of over 50cm in the longest length, Oversized waste.",T
-Oversized waste,"Tension pole,tension pole shelf","The case of within 50cm, Ordinary trash.",T
-Small metal articles,"Tension pole,tension pole shelf","The case of over 30cm in the longest length, Oversized waste.",T
-Oversized waste,"Tension pole,tension pole shelf","The case of within 30cm in the longest length, Small metal articles",T
-Mixed paper,Tissue paper box,,T
-Small metal articles,TV antenna,"When a business operator change them, they are not collected by the City.",T
-Oversized waste,TV antenna,,T
-Small metal articles,TV tuner(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",T
-Oversized waste,TV tuner(over 30cm),"The case of within 30cm in the longest length, Small metal articles",T
-Ordinary trash,DVD(Disk),,D
-Small metal articles,DVD Player(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",D
-Oversized waste,DVD Player(over 30cm),"The case of within 30cm in the longest length, Small metal articles",D
-Small metal articles,Electric Shaver,,E
-Small metal articles,Desk lamp,Remove its Electric bulb(Electric bulb is Ordinary trash.),D
-Small metal articles,Electric pot(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",E
-Oversized waste,Electric pot(over 30cm),"The case of within 30cm in the longest length, Small metal articles",E
-Oversized waste,Electric blanket,"Fold it,the case of within 30cm in the longest length, Small metal articles",E
-Ordinary trash,Electric bulb,"Wrapping them with cardboards and writing ’Electric bulb:DANGER’「電球キケン」on them. ",E
-Small metal articles,Electronic dictionary,,E
-Oversized waste,Electronic Piano,,E
-Small metal articles,Microwave(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",M
-Oversized waste,Microwave(over 30cm),"The case of within 30cm in the longest length, Small metal articles",M
-Small metal articles,Calculator,,C
-Small metal articles,Phone(include fax),"The case of over 30cm in the longest length, Oversized waste.",P
-Oversized waste,Phone（include fax,over 30cm）,"The case of within 30cm in the longest length, Small metal articles",P
-Mixed paper,Core of toilet paper,,C
-Ordinary trash,Crockery,"Wrapping them with cardboards and writing ’DANGER’「キケン」on them. ",C
-Ordinary trash,Ceramic bottle,"Wrapping them with cardboards and writing ’DANGER’「キケン」on them. ",C
-Small metal articles,Clock(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",C
-Oversized waste,Clock(over 30cm),"The case of within 30cm in the longest length, Small metal articles",C
-Small metal articles,Toaster(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",T
-Oversized waste,Toaster(over 30cm),"The case of within 30cm in the longest length, Small metal articles",T
-Small metal articles,Hair Dryer(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",H
-Oversized waste,Hair Dryer(over 30cm),"The case of within 30cm in the longest length, Small metal articles",H
-Small metal articles,Birdcage(Metal),,B
-Plastic films of containers,Trays(marked with this recyclable plastic mark),"There is also a shop that is doing the renovation",T
-Ordinary trash,Trays(not marked with this recyclable plastic mark),"The case of over 50cm in the longest length, Oversized waste.",T
-Oversized waste,Trays(not marked with this recyclable plastic mark,over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",T
-Ordinary trash,Boots(Safety boots),"It is unnecessary that Metal part is cut out .",B
-Mixed paper,Throw-flyer,,T
-Small metal articles,Pot(Metal・Enameled product)(within 30cm),"If the lengths are over 30 cm, not including the handles,Oversized waste",P
-Oversized waste,Pot(Metal・Enameled product)(over 30cm),"If the lengths are within 30 cm, not including the handles,Small metal articles",P
-Ordinary trash,Pot（Ceramics・Glasswear）,"Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「陶器キケン」on them." ,P
-Ordinary trash,Kitchen Trash,"Please drain completely.",K
-Ordinary trash,Doll(include Stuffed Animals)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",D
-Oversized waste,Doll(include Stuffed Animals)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",D
-Ordinary trash,Doll case(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",D
-Oversized waste,Doll case(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",D
-Plastic films of containers,Net(fruit net),,N
-Ordinary trash,Net（For draining NET）,,N
-Ordinary trash,Clay,,C
-Mixed paper,Notebook,,N
-Wastes not collected by the City,Agricultural chemicals,"Please consult with a shop or store of purchase.",A
-Small metal articles,Ashtray(Metal),,A
-Mixed paper,Postcard,,P
-Small metal articles,Personal Screen Printer(Print Gocco etc.)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",P
-Oversized waste,Personal Screen Printer(Print Gocco etc.)(over 30cm),"The case of within 30cm in the longest side, Small metal articles.",P
-Ordinary trash,Bucket(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",B
-Oversized waste,Bucket(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",B
-Oversized waste,Bathtub,"When a business operator change them, they are not collected by the City.",B
-Ordinary trash,Taxidermy(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",T
-Oversized waste,Taxidermy(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",T
-Wastes not collected by the City,PC,"Collected by the manufacturer,refer to 『Wastes not collected by the City』 PC",P
-Wastes not collected by the City,PC Monitor,"Collected by the manufacturer,refer to 『Wastes not collected by the City』PC",P
-Small metal articles,PC peripheral device(Adapter・cable・mouse・keyboard・mother board・hard disk etc.The part that is not a PC or a PC monitor)(within 30cm),"The case of over 30cm in the longest length, Oversized waste.Cable is put out by bundling",P
-Oversized waste,PC peripheral device(Adapter・cable・mouse・keyboard・mother board・hard disk etc.The part that is not a PC or a PC monitor)(over 30cm),"The case of within 30cm in the longest length, Small metal articles.Cable is put out by bundling",P
-Small metal articles,PC case(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",P
-Oversized waste,PC case(over 30cm),"The case of within 30cm in the longest length, Small metal articles.",P
-Wastes not collected by the City,Battery,"Please consult with a shop or store of purchase.",B
-Ordinary trash,Toothbrush,,T
-Ordinary trash,Styrofoam container(Things that you purchased as a product.)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,Styrofoam container(Things that you purchased as a product.)(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",S
-Plastic films of containers,Styrofoam container(Food Packaging Styrofoam)(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,Styrofoam container(Food Packaging Styrofoam)(over 50cm),"The case of within 50cm in the longest side, Plastic films of containers.",S
-Plastic films of containers,Styrofoam cushioning material(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",S
-Oversized waste,Styrofoam cushioning material(over 50cm),"The case of within 50cm in the longest side, Plastic films of containers.",S
-Ordinary trash,Firework,Put it from wet with water.(In the case of a large amount,consult with a shop or store of purchase.),F
-Small metal articles,Edged tool(include scissors)(within 30cm),"Wrapping them with cardboards and writing ’Edged tool:DANGER’「刃物キケン」on them.The case of over 30cm in the longest length, Oversized waste.",E
-Oversized waste,Edged tool(include scissors)(over 30cm),"Wrapping them with cardboards and writing ’Edged tool:DANGER’「刃物キケン」on them.The case of within 30cm in the longest length, Small metal articles.",E
-Small metal articles,Wire hanger,,W
-Mixed paper,Brochure,,B
-Plastic films of containers,Polystyrene foam,,P
-Ordinary trash,PP band,,P
-Empty bottles,Beer bottles,"If possible, dispose with local group recyclable resource collections or return them to a shop or store of purchase.",B
-Wastes not collected by the City,Piano,"Please consult with a shop or store of purchase.(Electronic Piano is Oversized waste.",P
-Small metal articles,Video camera(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",V
-Oversized waste,Video camera(over 30cm),"The case of within 30cm in the longest length, Small metal articles",V
-Ordinary trash,Videotape,,V
-Small metal articles,Beauty Equipment(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",B
-Oversized waste,Beauty Equipment(over 30cm),"The case of within 30cm in the longest length, Small metal articles",B
-Small metal articles,Fax MFP(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",F
-Oversized waste,Fax MFP(over 30cm),"The case of within 30cm in the longest length, Small metal articles",F
-Oversized waste,Fan heater,,F
-Oversized waste,Exercise Bicycle(indoor use）,,E
-Small metal articles,Food Processor(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",F
-Oversized waste,Food Processor(over 30cm),"The case of within 30cm in the longest length, Small metal articles",F
-Ordinary trash,Fork(Plastic),,F
-"Empty cans, PET bottles",Lid・Cap(Metal),,L
-Plastic films of containers,Lid・Cap(Plastic),,L
-Oversized waste,Futon・Bedding,"Five to one set.Bundle with string.",F
-Oversized waste,Wooden Carpet(within 2m),"The case of over 2m,Wastes not collected by the City"W
-Wastes not collected by the City,Wooden Carpet(over 2m),"The case of over 2m, they are not collected by the City.Please consult with a shop or store of purchase.The case of within 2m ,Oversized waste.",W
-Oversized waste,Lid of the bath,"If possible,you round it ,bundle with string.",L
-Ordinary trash,Plastic products(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",P
-Oversized waste,Plastic products(over 50cm),"The case of within 50cm in the longest length, Ordinary trash",P
-Small metal articles,Printer(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",P
-Oversized waste,Printer(over 30cm),"The case of within 30cm in the longest side, Small metal articles.",P
-Small metal articles,Frying pans(within 30cm),"If the lengths are over 30 cm, not including the handles,Oversized waste",F
-Oversized waste,Frying pans(over 30cm),"If the lengths are within 30 cm, not including the handles,Small metal articles",F
-Ordinary trash,Printer ink cartridge,"Some shops may collect it.",P
-Oversized waste,Rear-projection television (excluding the appliances specified in the Electric Appliance Recycling Law),"In advance, You must cofirm excluding the appliances specified in the Electric Appliance Recycling Law.Apply for collection at Oversized waste Center.Write ’excluding the appliances specified in the Electric Appliance Recycling Law:already confirmed the manufacturer’「家電リサイクル対象外 メーカーに確認済」on them.",R
-Wastes not collected by the City,Block(Block fence・Concrete),"Please consult with a shop or store of purchase.",B
-Ordinary trash,Floppy disk,,F
-Ordinary trash,Pet Waste or Pet Pads,"Wrapping them with newspapers, put them into  Plastic bag.You have to tie firmly Plastic bag to prevent the leak.",P
-Small metal articles,Headphone,,H
-"Empty cans, PET bottles","PET bottles(Beveragem,Liquor,Sweet cooking rice wine,Soy sauce,Vinegar, etc.)",,P
-Ordinary trash,PET bottles(Sauce or Edible oil),,P
-Plastic films of containers,PET bottle caps・Label,,P
-Oversized waste,Bed,,B
-Ordinary trash,Helmet,,H
-Small metal articles,Pliers,,P
-Ordinary trash,Lunch box(Plastic),,L
-Small metal articles,Lunch box(Aluminum),,L
-Plastic films of containers,Lunch box(Convenience store etc.),"Empty the container ,and rinse them lightly.",L
-Mixed paper,Wrapping paper,,W
-Oversized waste,Bowling ball(within 30cm),"Apply for collection at Oversized waste Center(Free).Under 5 pieces per once and size within 30cm in diameter.In the case of over 30cm, Please consult with a shop or store of purchase.",B
-Small metal articles,Ball,,B
-Small metal articles,Pot(within 30cm),"The case of over 30cm in the longest length, Oversized waste.",P
-Oversized waste,Pot(over 30cm),"The case of within 30cm in the longest length, Small metal articles",P
-Small metal articles,Hot curler,,H
-Ordinary trash,Baby bottle,"Wrapping them with cardboards and writing ’BREAKABLES:DANGER’「ワレモノキケン」on them.",B
-Ordinary trash,Plastic tank(within 50cm),"Use it up.The case of over 50cm in the longest length, Oversized waste.",P
-Oversized waste,Plastic tank(over 50cm),"Use it up.The case of within 50cm in the longest side, Ordinary trash.",P
-Ordinary trash,Plastic bucket(within 50cm),"The case of over 50cm in the longest length, Oversized waste.",P
-Oversized waste,Plastic bucket(over 50cm),"The case of within 50cm in the longest side, Ordinary trash.",P
-Ordinary trash,Cold compress,,C
-Local group recyclable resource collections or Ordinary trash,Book(publication),,B
-Ordinary trash,Container of nail polish(Bottle),,B
-Ordinary trash,Matches,,M
-Oversized waste,Mattress(Regardless of the presence or absence of the foot),,M
-Small metal articles,Thermos(within 30cm),,T
-Oversized waste,Thermos(over 30cm),,T
-Mixed paper,Notepad,,N
-Ordinary trash,Blanket,"You fold up it within 50cm.",B
-Small metal articles,Rice cake net,,R
-Oversized waste,Laundry pole(within 2m),,L
-Oversized waste,Laundry pole(over 2cm),"If a bit length of greater than than 2m, you don't have to cut it.You can put them to Oversized waste.Please inform  'Waste Collection Office' of the length and the reception No. (or 到達番号)with phone or e-mail",L
-Small metal articles,Kettle(within 30cm),"The case of over 30cm in the longest side with the exception of a handle, place this item in Oversized Waste.",K
-Oversized waste,Kettle(over 30cm),"The case of over 30cm in the longest side with the exception of a handle, place this item in Oversized Waste.",K
-Ordinary trash,Sticks for yakitori and other foods,They should have the tip bent so that it’s not dangerous before you serve it.,S
-Ordinary trash,Hot-water bottles,,H
-Small metal articles,Hot-water bottles(made of metal),,H
-Ordinary trash,Lighter(disposable),That are completely empty.,L
-Small metal articles,Lighter(refillable),That are completely empty.,L
-Small metal articles,Radio(within 30cm),"The case of over 30cm in the longest side, Oversized waste.Remove batteries.(Place batteries at the Recyclable resources collection.)",R
-Oversized waste,Radio(over 30cm),"The case of over 30cm in the longest side, Oversized waste.Remove batteries.(Place batteries at the Recyclable resources collection.)",R
-Plastic films of containers,Plastic wrap（This is used to wrap up food items.）,"The case of dirty things, Ordinary trash",P
-Mixed paper,Core of food plastic wrap,,C
-Small metal articles,Remote Controll,,R
-Small metal articles,Laser Printer,"You fold up it.The case of over 30cm, Oversized waste",L
-Oversized waste,Laser Printer,"You fold up it.The case of over 30cm, Oversized waste",L
-Mixed paper,Receipt,,R
-Plastic films of containers,Plastic bag,,P
+紙・布類,空き箱,十字にしばるか、紙袋に入れて出す,あ
+紙・布類,厚紙,十字にしばるか、紙袋に入れて出す,あ
+金属・陶器・ガラスごみ,アルミホイル（アルミ箔）,,あ
+紙・布類,アルミホイルの芯（紙製）,開いて厚紙などとあわせて出す,あ
+紙・布類,アイスクリームのカップ容器(プラスチック）,紙製のものは燃やすごみ,あ
+びん・かん・ペットボトル類,一斗缶（食品用、飲料用）,中身が入っているものは回収できません,い
+紙・布類,衣類（再利用可能なもの）,袋に「古布」と記入して出す,い
+燃やすごみ,衣類（再利用不可能なもの）,,い
+金属・陶器・ガラスごみ,植木鉢（陶磁器）,30cm以上のものは粗大ごみへ,う
+燃やすごみ,枝・落ち葉,大量の場合は清掃事務所へ連絡,え
+燃やすごみ,おむつ（紙おむつ）,汚物は取り除いて出す,お
+紙・布類,折り込みチラシ,新聞と一緒に十字にしばって出す,お
+金属・陶器・ガラスごみ,温度計,,お
+紙・布類,カーテン（1枚もの）,袋に「古布」と記入して出す,か
+燃やすごみ,カーテン（遮光カーテン）,,か
+燃やすごみ,カーボン紙,,か
+金属・陶器・ガラスごみ,鏡,30cm以上のものは粗大ごみへ,か
+紙・布類,学生服,袋に「古布」と記入して出す,か
+金属・陶器・ガラスごみ,傘,,か
+金属・陶器・ガラスごみ,カセットボンベ,最後まで使い切って別袋で出す,か
+燃やすごみ,かばん・ハンドバッグ,,か
+金属・陶器・ガラスごみ,かみそり,新聞などで包み「キケン」と表示する,か
+燃やすごみ,紙パック（内側がアルミのもの）,,か
+紙・布類,紙袋,十字にしばるか、紙袋に入れて出す,か
+燃やすごみ,ガムテープ,,か
+金属・陶器・ガラスごみ,ガラス製品（コップ、食器、板ガラス）,新聞などで包み「キケン」と表示する,か
+金属・陶器・ガラスごみ,ガラス破片（割れたびん等含む）,新聞などで包み「キケン」と表示する,か
+燃やすごみ,革製品（合成皮革を含む）,,か
+びん・かん・ペットボトル類,缶（お菓子、お茶、飲料用、缶詰め）,中をすすいで出す,か
+燃やすごみ,乾燥剤,,か
+燃やすごみ,木くず,,き
+紙・布類,教科書・参考書,十字にしばって出す,き
+燃やすごみ,薬（錠剤、粉、カプセル）を包装しているもの,,く
+金属・陶器・ガラスごみ,薬びん,,く
+燃やすごみ,靴,,く
+金属・陶器・ガラスごみ,携帯電話,販売店で回収する場合もあります,け
+燃やすごみ,毛皮,,け
+金属・陶器・ガラスごみ,化粧品のびん,,け
+燃やすごみ,コップ（紙、プラスチック製）,,こ
+金属・陶器・ガラスごみ,コップ（ガラス、金属）,新聞などで包み「キケン」と表示する,こ
+燃やすごみ,ゴム製品（長靴・輪ゴム）,,こ
+燃やすごみ,コンタクトレンズ,,こ
+紙・布類,雑誌（パンフレットなど含む）,十字にしばって出す,さ
+燃やすごみ,CD（レコード、DVDなど含む）,,し
+金属・陶器・ガラスごみ,磁石,,し
+紙・布類,シーツ,袋に「古布」と記入して出す,し
+燃やすごみ,写真,,し
+燃やすごみ,シュレッダーした紙,,し
+金属・陶器・ガラスごみ,食器（ガラス、金属、陶器）,,し
+紙・布類,スーツ,袋に「古布」と記入して出す,す
+燃やすごみ,ストッキング,,す
+燃やすごみ,砂（ペット用）,,す
+金属・陶器・ガラスごみ,スプレー缶,最後まで使い切って別袋で出す）,す
+燃やすごみ,生花,,せ
+燃やすごみ,生理用品,,せ
+燃やすごみ,ダウンジャケット,,た
+燃やすごみ,脱臭剤,,た
+紙・布類,段ボール,十字にしばる。油引き、ろう引き段ボールは燃やすごみへ,た
+金属・陶器・ガラスごみ,茶碗（陶器）,,ち
+金属・陶器・ガラスごみ,使い捨てカイロ,,つ
+燃やすごみ,テープ（カセットテープ、ビデオテープ）,,て
+金属・陶器・ガラスごみ,電化製品（家電リサイクル以外）,30cm以上のものは粗大ごみへ,て
+金属・陶器・ガラスごみ,電気ポット,30cm以上のものは粗大ごみへ,て
+金属・陶器・ガラスごみ,電球,取り替えた空ケースなどに入れて出す,て
+紙・布類,トイレットペーパーの芯,開いて厚紙などとあわせて出す,と
+金属；陶器・ガラスごみ,塗料缶,中身が入っているものは収集できません,と
+燃やすごみ,粘土,,ね
+紙・布類,ノート,十字にしばって出す,の
+びん・かん・ペットボトル類,発泡スチロール（食品用トレイ）,色付きや柄も回収します,は
+燃やすごみ,発泡スチロール（食品用以外のもの）,,は
+燃やすごみ,花火（使用済みのもの）,未使用のものは、水にぬらして出す,は
+金属・陶器・ガラスごみ,刃物・はさみ・包丁・ナイフ・カッター,新聞などで包み「キケン」と表示する,は
+金属・陶器・ガラスごみ,針・針金,新聞などで包み「キケン」と表示する,は
+金属・陶器・ガラスごみ,針金ハンガー,,は
+燃やすごみ,ビデオテープ,,ひ
+燃やすごみ,ビニールコート紙,,ひ
+燃やすごみ,ビニール袋,,ひ
+びん・かん・ペットボトル類,びん（飲料用・食品用）,,ひ
+燃やすごみ,フィルム,,ふ
+紙・布類,封筒,十字にしばるか、紙袋に入れて出す,ふ
+燃やすごみ,封筒（窓空き封筒）,窓の部分を取り除けば資源（紙布）,ふ
+燃やすごみ,プラスチック類（ボトルタイプ容器以外）,,ふ
+びん・かん・ペットボトル類,プラスチック類（ボトルタイプ容器7品目）,,ふ
+紙・布類,風呂敷,紙に「古布」と記入して出す,ふ
+燃やすごみ,フロッピーディスク,,ふ
+燃やすごみ,弁当容器（紙製・プラスチック製）,,へ
+紙・布類,包装紙,十字にしばるか、紙袋に入れて出す,ほ
+燃やすごみ,防虫剤（衣類用）,,ほ
+金属・陶器・ガラスごみ,ホッチキス,,ほ
+燃やすごみ,哺乳瓶（プラスチック製）,,ほ
+燃やすごみ,保冷剤,,ほ
+紙・布類,本,十字にしばって出す,ほ
+金属・陶器・ガラスごみ,マグネット,,ま
+燃やすごみ,マッチ,未使用のものは、水にぬらして出す,ま
+金属・陶器・ガラスごみ,めがね,,め
+紙・布類,綿毛布（タオルケット）,袋に「古布」と記入して出す,め
+紙・布類,毛布（電気毛布を除く）,袋に「古布」と記入して出す。電気毛布は粗大ごみへ,も
+金属・陶器・ガラスごみ,やかん,,や
+金属・陶器・ガラスごみ,ライター,最後まで使い切って別袋で出す,ら
+燃やすごみ,ラップ（食品包装用）,,ら
+燃やすごみ,レトルト食品の袋,,れ
+紙・布類,和服（着物・帯）,袋に「古布」と記入して出す,わ
